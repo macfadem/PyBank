@@ -19,8 +19,5 @@ This program requires Python 3 and the sqlite3 module.
    * Exit
 3. Follow the prompts to complete the desired action.
 
-## Contributors
-* Your Name (GitHub username: YOUR-USERNAME)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
